@@ -1,0 +1,6 @@
+[GIN] 2020/10/11 - 10:39:10 | 404 |         491ns |       127.0.0.1 | GET      /
+[GIN] 2020/10/11 - 10:39:10 | 404 |       2.151µs |       127.0.0.1 | GET      /favicon.ico
+[GIN] 2020/10/11 - 10:39:19 | 404 |         537ns |       127.0.0.1 | GET      /
+[GIN] 2020/10/11 - 10:39:19 | 404 |         599ns |       127.0.0.1 | GET      /favicon.ico
+{"animal":"walrus","level":"warning","msg":"A group of walrus emerges from the ocean","size":10,"time":"2020-10-11T10:39:31+08:00"}
+[GIN] 2020/10/11 - 10:39:31 | 200 |     140.537µs |       127.0.0.1 | GET      /hello
